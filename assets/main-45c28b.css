@@ -1178,48 +1178,48 @@
 }
 @font-face {
   font-family: TreatwellSansWeb;
-  src: url(./assets/TreatwellSansWeb-Regular-4275e5.woff2) format("woff2"),
-    url(./assets/TreatwellSansWeb-Regular-22c4ad.woff) format("woff");
+  src: url(/assets/TreatwellSansWeb-Regular-4275e5.woff2) format("woff2"),
+    url(/assets/TreatwellSansWeb-Regular-22c4ad.woff) format("woff");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
 }
 @font-face {
   font-family: TreatwellSansWeb;
-  src: url(./assets/TreatwellSansWeb-RegularItalic-7e0206.woff2)
+  src: url(/assets/TreatwellSansWeb-RegularItalic-7e0206.woff2)
       format("woff2"),
-    url(./assets/TreatwellSansWeb-RegularItalic-b7eef2.woff) format("woff");
+    url(/assets/TreatwellSansWeb-RegularItalic-b7eef2.woff) format("woff");
   font-style: italic;
   font-weight: 400;
   font-display: swap;
 }
 @font-face {
   font-family: TreatwellSansWeb;
-  src: url(./assets/TreatwellSansWeb-Bold-ba34b4.woff2) format("woff2"),
-    url(./assets/TreatwellSansWeb-Bold-a84b32.woff) format("woff");
+  src: url(/assets/TreatwellSansWeb-Bold-ba34b4.woff2) format("woff2"),
+    url(/assets/TreatwellSansWeb-Bold-a84b32.woff) format("woff");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
 }
 @font-face {
   font-family: TreatwellSansWeb;
-  src: url(./assets/TreatwellSansWeb-BoldItalic-c239c8.woff2) format("woff2"),
-    url(./assets/TreatwellSansWeb-BoldItalic-87d871.woff) format("woff");
+  src: url(/assets/TreatwellSansWeb-BoldItalic-c239c8.woff2) format("woff2"),
+    url(/assets/TreatwellSansWeb-BoldItalic-87d871.woff) format("woff");
   font-style: italic;
   font-weight: 700;
   font-display: swap;
 }
 @font-face {
   font-family: TreatwellSansWeb-Light;
-  src: url(./assets/TreatwellSansWeb-Light-1e7ea8.woff2) format("woff2"),
-    url(./assets/TreatwellSansWeb-Light-7a850b.woff) format("woff");
+  src: url(/assets/TreatwellSansWeb-Light-1e7ea8.woff2) format("woff2"),
+    url(/assets/TreatwellSansWeb-Light-7a850b.woff) format("woff");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: TreatwellSansWeb-Light;
-  src: url(./assets/TreatwellSansWeb-LightItalic-c60f95.woff2) format("woff2"),
-    url(./assets/TreatwellSansWeb-LightItalic-12785a.woff) format("woff");
+  src: url(/assets/TreatwellSansWeb-LightItalic-c60f95.woff2) format("woff2"),
+    url(/assets/TreatwellSansWeb-LightItalic-12785a.woff) format("woff");
   font-weight: 400;
   font-style: italic;
 }
@@ -6262,7 +6262,7 @@ body.LMN_GB .Popup--alertTitle--bfd430 {
   background-size: 25px 20px;
 }
 .styles-module--youtube--02b963 {
-  background-image: url(./assets/youtube-b555f4.svg);
+  background-image: url(/assets/youtube-b555f4.svg);
   width: 18px;
   background-size: 16px 20px;
 }
